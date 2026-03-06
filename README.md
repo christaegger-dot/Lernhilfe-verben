@@ -172,3 +172,9 @@ Diese Lernplattform bietet alles, was du für deinen Französisch-Test brauchst.
 ---
 *Erstellt mit ❤️ für effektives Französisch-Lernen*
 
+
+## 🔗 Externes Referenz-Repository
+
+Falls du stattdessen mit dem Projekt **„Bipolare-Erkrankung“** arbeiten möchtest, findest du es hier:
+
+- https://github.com/christaegger-dot/Bipolare-Erkrankung/tree/main
